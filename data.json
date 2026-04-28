@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Battle of Tali-Ihantala (1944)",
+    "category": "Military",
+    "coords": [61.7957, 29.1346],
+    "story": "The largest battle in Nordic history. Finnish forces held against a massive Soviet offensive during the Continuation War, demonstrating extreme sisu and tactical brilliance under overwhelming odds. Approximately 27,000 Soviet casualties against 4,500 Finnish casualties.",
+    "year": 1944
+  },
+  {
+    "id": 2,
+    "title": "Battle of Raate Road (1940)",
+    "category": "Military",
+    "coords": [64.7273, 29.5760],
+    "story": "A decisive Winter War engagement where outnumbered Finnish troops used motti tactics to encircle and destroy Soviet divisions in freezing conditions. Soviet troops were cut off, surrounded, and systematically destroyed. This battle became a symbol of Finnish ingenuity under pressure.",
+    "year": 1940
+  },
+  {
+    "id": 3,
+    "title": "Battle of Suomussalmi (1939)",
+    "category": "Military",
+    "coords": [64.8867, 28.9100],
+    "story": "Finnish forces under Colonel Hjalmar Siilasvuo used superior knowledge of terrain and guerrilla tactics to decisively defeat two Soviet divisions. The battle showcased Finnish ski troops using economy of force—small units achieving massive strategic objectives.",
+    "year": 1939
+  },
+  {
+    "id": 4,
+    "title": "Kollaa — 'Sissikollaa' (1941-44)",
+    "category": "Military",
+    "coords": [61.2000, 28.8000],
+    "story": "The line at Kollaa became the definitive symbol of Finnish sisu. When ordered to hold at all costs, the commander answered: 'Kollaa shall not yield.' The line held for three years against relentless Soviet pressure.",
+    "year": 1941
+  },
+  {
+    "id": 5,
+    "title": "Vaasa — Energy Capital of Finland",
+    "category": "Modern",
+    "coords": [63.0960, 21.6158],
+    "story": "After the war, Vaasa transformed into Finland's energy technology hub, home to companies driving sustainable innovation. A modern example of Finnish sisu: rebuilding through industry, technology, and forward-thinking infrastructure.",
+    "year": 1945
+  },
+  {
+    "id": 6,
+    "title": "Helsinki — Rebuilding After the War (1945-55)",
+    "category": "Modern",
+    "coords": [60.1699, 24.9384],
+    "story": "Post-war Helsinki was rebuilt from near-destruction. The city not only recovered but grew into one of the most liveable, innovative capitals in Europe—a testament to Finnish resilience and forward-thinking urban planning.",
+    "year": 1945
+  },
+  {
+    "id": 7,
+    "title": "Oulu — Northern Industrial Resilience",
+    "category": "Modern",
+    "coords": [65.0141, 25.4717],
+    "story": "From a small trading post to a technology powerhouse, Oulu represents the northern Finnish spirit of adaptation and reinvention. Today it is home to one of Finland's most productive tech clusters, born from the need to survive harsh conditions.",
+    "year": 1950
+  }
+]
